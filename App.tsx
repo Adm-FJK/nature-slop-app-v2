@@ -142,7 +142,7 @@ function App() {
               className="flex items-center justify-center px-1.5 py-0.5 sm:px-2 sm:py-1 rounded-[1px] bg-slate-200/80 text-slate-700 font-mono text-[8px] sm:text-[9px] font-bold tracking-[0.1em] hover:bg-slate-900 hover:text-white transition-all duration-200 active:scale-95 shadow-sm"
               title="Over deze test"
             >
-              INFO
+              HOME
             </button>
             <div className="flex items-center gap-1.5 sm:gap-2 text-emerald-900">
                 <Sprout className="w-4 h-4 sm:w-5 sm:h-5" />
