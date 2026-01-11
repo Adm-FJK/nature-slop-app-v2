@@ -70,9 +70,7 @@ const GameOver: React.FC<GameOverProps> = ({ score, onRestart }) => {
       {/* De-escalated Accordion Section */}
       <div className="mb-6 text-center pt-2 flex flex-col items-center">
         <p className="text-base text-slate-800 font-serif leading-relaxed px-4">
-          Deze score zegt niet alleen iets over jouw waarneming of natuurkennis, 
-          maar ook over hoe krachtig en overtuigend AI-gegenereerde natuurbeelden inmiddels zijn, zelfs voor experts
-    
+         Ben je misleid? Dat ligt niet alleen aan jou. AI-gegenereerde beelden worden steeds overtuigender.
           Wat maakt een natuurafbeelding “echt”?
         </p>
         
@@ -81,7 +79,7 @@ const GameOver: React.FC<GameOverProps> = ({ score, onRestart }) => {
           className="flex items-center justify-center gap-2 py-3 px-4 text-slate-800 hover:text-emerald-700 transition-all group w-fit"
         >
           <span className="text-sm font-serif italic border-b border-transparent group-hover:border-emerald-200 transition-all">
-            Ontdek de 4 niveaus van (on)echtheid
+            Ontdek 4 categorieën van (on)echtheid
           </span>
           {showLevels ? (
             <ChevronUp className="w-5 h-5 shrink-0 text-slate-900" />
