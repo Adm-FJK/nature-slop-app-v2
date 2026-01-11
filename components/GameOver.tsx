@@ -70,7 +70,8 @@ const GameOver: React.FC<GameOverProps> = ({ score, onRestart }) => {
       {/* De-escalated Accordion Section */}
       <div className="mb-6 text-center pt-2 flex flex-col items-center">
         <p className="text-base text-slate-800 font-serif leading-relaxed px-4">
-         Ben je misleid? Dat ligt niet alleen aan jou. AI-gegenereerde beelden worden steeds overtuigender.
+         Ben je misleid? Dat ligt niet alleen aan jou. 
+          Met de juiste prompts maken nieuwe AI-modellen steeds overtuigendere natuurbeelden.
           Wat maakt een natuurafbeelding “echt”?
         </p>
         
