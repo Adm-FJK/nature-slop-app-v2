@@ -58,7 +58,7 @@ const StartScreen: React.FC<StartScreenProps> = ({ onStart }) => {
               </div>
 
               <h1 className="text-2xl sm:text-3xl font-serif font-bold text-slate-900 leading-tight text-center">
-                Echt of AI? De Natuurbeeldentest
+                Echt of AI? Natuurbeeldentest
               </h1>
             </div>
 
