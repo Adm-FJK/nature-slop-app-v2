@@ -147,7 +147,7 @@ function App() {
             <div className="flex items-center gap-1.5 sm:gap-2 text-emerald-900">
                 <Sprout className="w-4 h-4 sm:w-5 sm:h-5" />
                 <h1 className="text-sm sm:text-lg font-serif font-bold tracking-tight">
-                Natuurbeeldentest: Echt of AI?
+                Natuurbeelden: Echt of AI?
                 </h1>
             </div>
         </div>
