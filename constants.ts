@@ -31,6 +31,6 @@ const generateImages = (): ImageData[] => {
 
 export const IMAGES_DATA: ImageData[] = generateImages();
 
-export const INITIAL_SCORE = 100;
+export const INITIAL_SCORE = 50;
 // Aantal rondes is 12
 export const MAX_ROUNDS = 12;
